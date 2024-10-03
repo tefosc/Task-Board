@@ -24,7 +24,7 @@ Para instalar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL del repositorio>
+   git clone https://github.com/tefosc/Task-Board.git
    cd task-board
    ```
 2. Instala las dependencias:
