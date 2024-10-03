@@ -40,6 +40,22 @@ Para instalar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
    npm run dev
    ```
 
+## Demo
+
+Puedes ver la aplicación en vivo en [Vercel](https://task-board-solis.vercel.app/)
+
+## Capturas de pantalla
+
+Aquí hay algunas capturas de pantalla de la aplicación:
+
+### Pantalla Principal
+
+![Pantalla Principal](https://github.com/tefosc/Task-Board/blob/main/src/aseets/Screenshot1.png?raw=true)
+
+### Crear Tarea
+
+![Crear Tarea](https://github.com/tefosc/Task-Board/blob/main/src/aseets/Screenshot2.png?raw=true)
+
 ## Autor
 
 **Solis Martos Alejandro Stéfano**
